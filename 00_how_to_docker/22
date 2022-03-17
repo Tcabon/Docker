@@ -1,0 +1,1 @@
+docker swarm join --token $(join-token) $(ip de char):2377
